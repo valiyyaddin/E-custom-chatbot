@@ -205,14 +205,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or support, please open an issue in the GitHub repository.
 
-## Acknowledgments 🙏
 
-- OpenAI for embeddings API
-- ElevenLabs for Azerbaijani speech recognition
-- Telegram for bot platform
-- FAISS team for vector search library
 
----
-
-**Made with ❤️ for Azerbaijan Customs Administration**
 
